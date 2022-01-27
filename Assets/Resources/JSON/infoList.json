@@ -1,0 +1,39 @@
+﻿{
+	"infoList": [
+		{
+			"id": 1,
+			"name": "Bandits",
+			"info": "You were ambushed by forest bandits!"
+		},
+		{
+			"id": 2,
+			"name": "GoldBagFound",
+			"info": "You have found a bag of gold!"
+		},
+		{
+			"id": 3,
+			"name": "Nothing",
+			"info": "Nothing there..."
+		},
+		{
+			"id": 4,
+			"name": "HealingGnome",
+			"info": "You have found a gnome, stuck between heavy logs. You removed these logs, but as you touched him, he suddenly vanished. You feel much better."
+		},
+		{
+			"id": 5,
+			"name": "VictoriousFight",
+			"info": "You defeated your enemy!"
+		},
+		{
+			"id": 6,
+			"name": "Death",
+			"info": "You died!"
+		},
+		{
+			"id": 7,
+			"name": "Victory",
+			"info": "You have discovered the whole forest!"
+		}
+	]
+}

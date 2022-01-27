@@ -1,0 +1,58 @@
+{
+	"enemies": [
+		{
+			"enemyName": "Thug",
+			"id": 1,
+			"minDamage": 18,
+			"maxDamage": 26,
+			"currentHealth": 30,
+			"maxHealth": 30,
+			"gold": 43
+		},
+		{
+			"enemyName": "Orc",
+			"id": 2,
+			"minDamage": 19,
+			"maxDamage": 32,
+			"currentHealth": 43,
+			"maxHealth": 43,
+			"gold": 86
+		},
+		{
+			"enemyName": "Lihzard",
+			"id": 3,
+			"minDamage": 5,
+			"maxDamage": 11,
+			"currentHealth": 25,
+			"maxHealth": 25,
+			"gold": 23
+		},
+		{
+			"enemyName": "Troll",
+			"id": 4,
+			"minDamage": 1,
+			"maxDamage": 150,
+			"currentHealth": 69,
+			"maxHealth": 69,
+			"gold": 145
+		},
+		{
+			"enemyName": "Dragon",
+			"id": 5,
+			"minDamage": 45,
+			"maxDamage": 81,
+			"currentHealth": 120,
+			"maxHealth": 120,
+			"gold": 265
+		},
+		{
+			"enemyName": "Goblin",
+			"id": 6,
+			"minDamage": 8,
+			"maxDamage": 13,
+			"currentHealth": 15,
+			"maxHealth": 15,
+			"gold": 12
+		}
+	]
+}
